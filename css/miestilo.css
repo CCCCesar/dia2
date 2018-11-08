@@ -1,0 +1,21 @@
+
+
+h1 + p {
+	color: #ff0000;
+	font-size: 20px;
+}
+
+a span{
+	color: orange;
+	font-size: 50px;
+}
+
+.politica {
+	text-decoration: underline;
+	color: #ff0000;
+}
+
+.deportes {
+	text-decoration: underline;
+	color: green;
+}
